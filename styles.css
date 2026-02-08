@@ -347,7 +347,7 @@ body {
 }
 
 .btn-yes {
-    background: linear-gradient(135deg, var(--pink-dark) 0%, var(--red-love) 100%);
+    background: #28a745;
     color: var(--white);
     box-shadow: 
         0 8px 30px var(--shadow-deep),

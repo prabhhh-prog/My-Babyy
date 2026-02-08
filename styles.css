@@ -403,7 +403,7 @@ body {
 }
 
 .btn-no {
-    background: linear-gradient(135deg, #A0A0A0 0%, #808080 100%);
+    background: linear-gradient(135deg, #ff2222 0%, #970808 100%);
     color: #fff;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     transition: all 0.2s ease-out;

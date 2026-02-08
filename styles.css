@@ -319,7 +319,7 @@ body {
 
 .subtitle {
     font-size: 1.1rem;
-    color: var(--pink-dark);
+    color: var(black);
     margin-bottom: 25px;
     font-weight: 600;
 }
